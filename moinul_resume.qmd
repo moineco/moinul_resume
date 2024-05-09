@@ -26,7 +26,7 @@ csl: apa-cv.csl
 
 # Employment
 
-*Kochi University of Technology*
+*Koci University of Technology*
 
 Assistant Professor, School of Economics and Management \hfill 2020-Current
 
@@ -38,13 +38,17 @@ Assistant Professor, Graduate School for International Development and Cooperati
 
 Assistant Professor, Graduate School of Urban and Environmental Engineering \hfill 2016-2019
 
+*Tohoku University*
+
+Researcher, Graduate School of Environmental Science \hfill 2012
+
 # Education
 
 *Kyushu University*, Ph.D in Engineering \hfill 2012-2016
 
 *International University of Japan*, M.A in International Development \hfill 2010-2012
 
-*Shah Jalal University of Science and Technology*, M.S.S in Economics \hfill 2007-2008
+*Shah Jalal University of Science and Technology*, M.S.S in Economics \hfill 2006-2007
 
 *Shah Jalal University of Science and Technology*, B.S.S in Economics \hfill 2002-2006
 
