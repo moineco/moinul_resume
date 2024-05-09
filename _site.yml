@@ -1,0 +1,11 @@
+name: "moinul_resume"
+navbar:
+  title: "Resume"
+  left:
+    - text: "My Resume"
+      href: moinul_resume.html
+  output:
+    html:
+     toc: true
+     highlight: textmate
+output_dir: "docs"
