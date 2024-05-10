@@ -26,9 +26,9 @@ csl: apa-cv.csl
 
 # Employment
 
-*Koci University of Technology*
+*Kochi University of Technology*
 
-Assistant Professor, School of Economics and Management \hfill 2020-Current
+Assistant Professor, School of Economics and Management \hfill 2020-current
 
 *Hiroshima University*
 
