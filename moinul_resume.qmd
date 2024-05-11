@@ -9,6 +9,7 @@ email: moinul.eco@gmail.com
 fontsize: 11pt
 #fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
 #mainfont: Ubuntu # if you want to use a different locally installed font
+mainfont: "Times-New-Roman"
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: moineco # github account
 #orcid: 0000-0002-0309-3156 # orcid identifier
@@ -16,6 +17,7 @@ github: moineco # github account
 #twitter: twitter # twitter handle
 web: https://moineco.github.io/moinul/research.html
 fontawesome: yes
+papersize: us-letter
 #nocite: '@*'
 #bibliography: 
 #peer: peer_bib.bib
@@ -44,9 +46,9 @@ Researcher, Graduate School of Environmental Science \hfill 2012
 
 # Education
 
-*Kyushu University*, Ph.D in Engineering \hfill 2012-2016
+*Kyushu University*, Ph.D in Engineering (Environmental Economics) \hfill 2012-2016
 
-*International University of Japan*, M.A in International Development \hfill 2010-2012
+*International University of Japan*, M.A in International Development (Economics) \hfill 2010-2012
 
 *Shah Jalal University of Science and Technology*, M.S.S in Economics \hfill 2006-2007
 
@@ -136,7 +138,3 @@ Researcher, Graduate School of Environmental Science \hfill 2012
 7.  Mahful, R., **Islam, M.**, Nakayam, H., and Managi, S. (2019). The effect of landfill gas emission on global warming and workers' health in Indonesia. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 :::
 
-
-# References
-
-Available upon request
