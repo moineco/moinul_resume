@@ -1,12 +1,12 @@
 ---
-title: Resume
+title: "Resume"
 format:
   quarto-cv-pdf: default
-author: MOINUL ISLAM
+author: "MOINUL ISLAM"
 date: last-modified
 address: "Assistant Profesor, Kochi University of Technology, Kochi City, Japan"
 email: moinul.eco@gmail.com
-fontsize: 11pt
+fontsize: 10.5pt
 #fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
 #mainfont: Ubuntu # if you want to use a different locally installed font
 mainfont: "Times-New-Roman"
