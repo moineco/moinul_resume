@@ -6,12 +6,12 @@ author: "MOINUL ISLAM"
 date: last-modified
 address: "Assistant Profesor, Kochi University of Technology, Kochi City, Japan"
 email: moinul.eco@gmail.com
-fontsize: 10.5pt
+fontsize: 11pt
 mainfont: "Times-New-Roman"
 github: moineco # github account
 #orcid: 0000-0002-0309-3156 # orcid identifier
 #twitter: twitter # twitter handle
-web: https://moineco.github.io/moinul/research.html
+web: moineco.github.io/moinul/research.html
 fontawesome: yes
 papersize: us-letter
 validate-yaml: false
