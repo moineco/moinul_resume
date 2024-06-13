@@ -4,7 +4,7 @@ format:
   quarto-cv-pdf: default
 author: "MOINUL ISLAM"
 date: last-modified
-address: "Assistant Profesor, Kochi University of Technology, Kochi City, Japan"
+address: "Assistant Professor, Kochi University of Technology, Kochi City, Japan"
 email: moinul.eco@gmail.com
 fontsize: 11pt
 mainfont: "Times-New-Roman"
@@ -53,31 +53,31 @@ Researcher, Graduate School of Environmental Science \hfill 2012
 
 2.  **Islam, M.**, Kotani, K., and Managi, S. (2024). Nature dependence and seasonality change perceptions for climate adaptation and mitigation. *Economic Analysis and Policy*, 81, 34--44.
 
-3.  Managi, S., **Islam, M.* **, Zhang, D., Zaied, Y. B., and Saito, O. (2023). Natural capital accounting for sustainable cities. *Sustainability Science*, 18, 2049--2051. 
+3.  Managi, S., **Islam, M.\*** , Zhang, D., Zaied, Y. B., and Saito, O. (2023). Natural capital accounting for sustainable cities. *Sustainability Science*, 18, 2049--2051.
 
 4.  Yamaguchi, R., **Islam, M.**, and Managi, S. (2023). Natural Capital and Wealth Accounting for Sustainability Assessment: A Global Perspective. *International Review of Environmental and Resource Economics*, 16, 431--465.
 
 5.  **Islam, M.**, Zhang, B., and Managi, S. (2022). The trade-off between natural capital and other capitals in Pakistan. *Sustainability Science*, 17, 1799--1811.
 
-6.  Managi, S., **Islam, M.* **, Saito, O. et al. (2022). Valuation of nature and nature's contributions to people. *Sustainability Science*, 17, 701--705. 
+6.  Managi, S., **Islam, M.\*** , Saito, O. et al. (2022). Valuation of nature and nature's contributions to people. *Sustainability Science*, 17, 701--705.
 
 7.  **Islam, M.**, and Managi, S. (2022). Valuation of Nature's Contribution in Ladakh, India: An Inclusive Wealth Method. *Sustainability Science*, 17, 905--918.
 
-8.  N'dri, L., **Islam, M.* **, and Kakinaka, M. (2021). ICT and environmental sustainability: Any differences in developing countries? *Journal of Cleaner Production*, 297, 126642.
+8.  N'dri, L., **Islam, M.\*** , and Kakinaka, M. (2021). ICT and environmental sustainability: Any differences in developing countries? *Journal of Cleaner Production*, 297, 126642.
 
-9.  Badamvaanchig, M., **Islam, M.* **, and Kakinaka, M. (2021). Pass-through of commodity price to Mongolian stock price: Symmetric or asymmetric? *Resources Policy*, 70, 101955.
+9.  Badamvaanchig, M., **Islam, M.\*** , and Kakinaka, M. (2021). Pass-through of commodity price to Mongolian stock price: Symmetric or asymmetric? *Resources Policy*, 70, 101955.
 
-10. Hongsakhone, S., **Islam, M.* **, and Ichihashi, M. (2021). Producing a village input-output table (VIOT) from household survey data: A case study of a VIOT for a rural village in northern Lao PDR. *Journal of Economic Structures*, 10, 1--24. 
+10. Hongsakhone, S., **Islam, M.\*** , and Ichihashi, M. (2021). Producing a village input-output table (VIOT) from household survey data: A case study of a VIOT for a rural village in northern Lao PDR. *Journal of Economic Structures*, 10, 1--24.
 
-11. Sharifi, A., Simangan, D., Lee, C. Y., Reyes, S. R. C., Katramiz, T., Josol, J. C. C., and **Islam, M.** (2021). Climate-induced stressors to peace: A review of recent literature. *Environmental Research Letters*, 16, 073006. 
+11. Sharifi, A., Simangan, D., Lee, C. Y., Reyes, S. R. C., Katramiz, T., Josol, J. C. C., and **Islam, M.** (2021). Climate-induced stressors to peace: A review of recent literature. *Environmental Research Letters*, 16, 073006.
 
 12. Simangan, D., Virji, H., Hendrix, C., **Islam, M.**, Kaneko, S., Ma, Y., Mechler, R., Pangotra, P., Peters, K., Sharifi, A. and Shams, S. (2021). A co-designed heuristic guide for investigating the peace-sustainability nexus in the context of global change. *Sustainability Science*, 16, 1097--1109.
 
-13. Essandoh, O. K., **Islam, M.* **, and Kakinaka, M. (2020). Linking international trade and foreign direct investment to $CO_2$ emissions: Any differences between developed and developing countries? *Science of The Total Environment*, 712, 136437. 
+13. Essandoh, O. K., **Islam, M.\*** , and Kakinaka, M. (2020). Linking international trade and foreign direct investment to $CO_2$ emissions: Any differences between developed and developing countries? *Science of The Total Environment*, 712, 136437.
 
-14. Jingyu, W., Yuping B., Yihzong W., Zhihui L., Xiangzheng D., **Islam M.**, and Managi S. (2020). Measuring inclusive wealth of China: Advances in sustainable use of resources. *Journal of Environmental Management*, 264, 110328. 
+14. Jingyu, W., Yuping B., Yihzong W., Zhihui L., Xiangzheng D., **Islam M.**, and Managi S. (2020). Measuring inclusive wealth of China: Advances in sustainable use of resources. *Journal of Environmental Management*, 264, 110328.
 
-15. Hotak, S., **Islam, M.* **, Kakinaka, M. and Kotani, K. (2020). Carbon emissions and carbon trade balances: International evidence from panel ARDL analysis. *Environmental Science and Pollution Research*, 27, 24115--24128. 
+15. Hotak, S., **Islam, M.\*** , Kakinaka, M. and Kotani, K. (2020). Carbon emissions and carbon trade balances: International evidence from panel ARDL analysis. *Environmental Science and Pollution Research*, 27, 24115--24128.
 
 16. Coulibaly, T., **Islam, M.**, and Managi, S. (2020). The Impacts of climate change and natural disasters on agriculture in African countries. *Economics of Disasters and Climate Change*, 4, 347--363.
 
@@ -89,17 +89,17 @@ Researcher, Graduate School of Environmental Science \hfill 2012
 
 20. **Islam, M.**, Kanemoto, K., and Managi, S. (2019). Growth potential for $CO_2$ emissions transfer by tariff reduction. *Environmental Research Letters*, 14, 024011.
 
-21. Yamaguchi, R., **Islam, M.**, and Managi, S. (2019). Inclusive wealth in the 21st century. *Letters in Spatial and Resource Sciences*, 12, 101--111. 
+21. Yamaguchi, R., **Islam, M.**, and Managi, S. (2019). Inclusive wealth in the 21st century. *Letters in Spatial and Resource Sciences*, 12, 101--111.
 
-22. Ying Lee, C., Lotsu, S., **Islam, M.* **, Yoshida, Y., and Kaneko, S. (2019). The Impact of an energy efficiency improvement policy on the economic performance of electricity-intensive firms in Ghana. *Energies*, 12, 3684. 
+22. Ying Lee, C., Lotsu, S., **Islam, M.\*** , Yoshida, Y., and Kaneko, S. (2019). The Impact of an energy efficiency improvement policy on the economic performance of electricity-intensive firms in Ghana. *Energies*, 12, 3684.
 
 23. **Islam, M.**, Yamaguchi, R., Sugiawan, Y., and Managi, S. (2018). Valuing natural capital and ecosystem services: A literature review. *Sustainability Science*, 14, 159-174.
 
 24. **Islam, M.**, and Managi, S. (2018). Sustainable adaptation to multiple water risks in agriculture: Evidence from Bangladesh. *Sustainability* (Switzerland), 10(6).
 
-25. Rajapaksa, D., **Islam, M.**, and Managi, S. (2018). Pro-environmental behavior: The role of public perception in infrastructure and the social factors for sustainable development. *Sustainability* (Switzerland), 10, 937. 
+25. Rajapaksa, D., **Islam, M.**, and Managi, S. (2018). Pro-environmental behavior: The role of public perception in infrastructure and the social factors for sustainable development. *Sustainability* (Switzerland), 10, 937.
 
-26. Tolliver, C., **Islam, M.**, Shin, K., and Managi, S. (2018). The impact of energy security risks on energy consumption. *International Journal of Innovation and Sustainable Development*, 12, 258--270. 
+26. Tolliver, C., **Islam, M.**, Shin, K., and Managi, S. (2018). The impact of energy security risks on energy consumption. *International Journal of Innovation and Sustainable Development*, 12, 258--270.
 
 27. Sugiawan, Y., **Islam, M.**, and Managi, S. (2017). Global marine fisheries with environmental sustainability. *Economic Analysis and Policy*, 55, 158--168.
 
@@ -129,4 +129,3 @@ Researcher, Graduate School of Environmental Science \hfill 2012
 
 7.  Mahful, R., **Islam, M.**, Nakayam, H., and Managi, S. (2019). The effect of landfill gas emission on global warming and workers' health in Indonesia. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 :::
-
