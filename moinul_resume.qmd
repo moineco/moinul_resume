@@ -4,7 +4,7 @@ format:
   quarto-cv-pdf: default
 author: "MOINUL ISLAM"
 date: last-modified
-address: "Assistant Professor, Kochi University of Technology, Kochi City, Japan"
+address: "Associate Professor, Kochi University of Technology, Kochi City, Japan"
 email: moinul.eco@gmail.com
 fontsize: 11pt
 mainfont: "Times-New-Roman"
@@ -19,10 +19,13 @@ csl: apa-cv.csl
 ---
 
 # Employment
+*Kochi University of Technology*
+
+Associate Professor, School of Economics and Management \hfill 2024-current
 
 *Kochi University of Technology*
 
-Assistant Professor, School of Economics and Management \hfill 2020-current
+Assistant Professor, School of Economics and Management \hfill 2020-2024
 
 *Hiroshima University*
 
@@ -112,20 +115,14 @@ Researcher, Graduate School of Environmental Science \hfill 2012
 31. **Islam, M.**, and Kotani, K. (2016). Changing seasonality in Bangladesh. *Regional Environmental Change*, 16, 585--590.
 :::
 
-# Book chapters
+# Book chapters (Selected)
 
 ::: {#refs-other}
 1.  **Islam, M.**, and Managi, S. (2021). Global human capital: View from inclusive wealth. In measuring human capital (pp. 39-54). Academic Press. ISBN: 9780128190579.
 
-2.  Sugiawan, Y., **Islam, M.**, and Managi, S. (2019). Global marine fisheries with environmental sustainability. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
+2.  Sankaralingam, I., **Islam, M.**, Nozawa, W., and Managi, S. (2019). Impact of infrastructure in India. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
-3.  Sankaralingam, I., **Islam, M.**, Nozawa, W., and Managi, S. (2019). Impact of infrastructure in India. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
+3.  Coulibaly, T., **Islam, M.**, and Managi, S. (2019). The impact of climate change and extreme events on agriculture in Africa. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
-4.  Jumbri, I., **Islam, M.**, and Managi, S. (2019). Inclusive wealth adjusted by total factor productivity as a sustainable measurement: global productivity analysis. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
-
-5.  Coulibaly, T., **Islam, M.**, and Managi, S. (2019). The impact of climate change and extreme events on agriculture in Africa. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
-
-6.  Qiuyi, C., **Islam, M.**, and Managi, S. (2019). Human capital change and social impact under China's universal two-child policy. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
-
-7.  Mahful, R., **Islam, M.**, Nakayam, H., and Managi, S. (2019). The effect of landfill gas emission on global warming and workers' health in Indonesia. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
+4.  Qiuyi, C., **Islam, M.**, and Managi, S. (2019). Human capital change and social impact under China's universal two-child policy. In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 :::
