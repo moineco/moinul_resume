@@ -21,7 +21,7 @@ csl: apa-cv.csl
 # Employment
 *Kochi University of Technology*
 
-Associate Professor, School of Economics and Management \hfill 2024-current
+Associate Professor, School of Economics and Management \hfill 2024-Cont.
 
 *Kochi University of Technology*
 
