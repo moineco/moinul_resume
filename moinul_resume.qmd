@@ -5,7 +5,7 @@ format:
 author: "MOINUL ISLAM"
 date: last-modified
 address: "Associate Professor, Kochi University of Technology, Kochi City, Japan"
-email: moinul.eco@gmail.com
+email: moinul.eco[at]gmail.com
 fontsize: 11pt
 mainfont: "Times-New-Roman"
 github: moineco # github account
@@ -19,6 +19,7 @@ csl: apa-cv.csl
 ---
 
 # Employment
+
 *Kochi University of Technology*
 
 Associate Professor, School of Economics and Management \hfill 2024-Cont.
